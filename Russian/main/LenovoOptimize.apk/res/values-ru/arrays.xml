@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_name">
+        <item>способ ввода по умолчанию</item>
+        <item>лаунчер по умолчанию</item>
+        <item>браузер по умолчанию</item>
+        <item>телефон по умолчанию</item>
+        <item>SMS программа по умолчанию</item>
+        <item>email по умолчанию</item>
+        <item>галерея по умолчанию</item>
+        <item>камера по умолчанию</item>
+        <item>видео по умолчанию</item>
+        <item>онлайн видео по умолчанию</item>
+        <item>музыка по умолчанию</item>
+        <item>онлайн музыка по умолчанию</item>
+    </string-array>
+    <string-array name="key_intents">
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.provider.Telephony.SMS_RECEIVED</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.intent.action.PACKAGE_ADDED@package,android.intent.action.PACKAGE_REMOVED@package,android.intent.action.PACKAGE_REPLACED@package</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <string-array name="start_name">
+        <item>устройство включено</item>
+        <item>подойти к телефону</item>
+        <item>получать SMS</item>
+        <item>сетевое устройство</item>
+        <item>установка программного обеспечения</item>
+        <item>разблокировка экрана</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>рекамендовано системой</item>
+        <item>принудительно устанавливать в память телефона</item>
+        <item>принудительно устанавливат на карту памяти по умолчанию</item>
+    </string-array>
+    <string-array name="softpermission">
+        <item>автозагрузка</item>
+        <item>интернет</item>
+        <item>вызовы</item>
+        <item>отправка SMS</item>
+        <item>чтение адресной книги</item>
+        <item>получения информации о местоположении</item>
+    </string-array>
+    <string-array name="softpermission_intent">
+        <item>android.permission.RECEIVE_BOOT_COMPLETED</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.CALL_PHONE</item>
+        <item>android.permission.SEND_SMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.ACCESS_COARSE_LOCATION/android.permission.ACCESS_FINE_LOCATION</item>
+    </string-array>
+</resources>

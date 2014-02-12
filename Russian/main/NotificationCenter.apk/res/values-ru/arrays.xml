@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="network_speed_refresh_time_interval">
+        <item>3 c</item>
+        <item>6 c</item>
+        <item>9 c</item>
+    </string-array>
+    <string-array name="battery_style_list">
+        <item>Графический</item>
+        <item>В процентах</item>
+    </string-array>
+</resources>

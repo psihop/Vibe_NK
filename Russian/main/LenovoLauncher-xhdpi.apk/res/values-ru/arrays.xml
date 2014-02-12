@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_citys">
+        <item>Пекин</item>
+        <item>Шанхай</item>
+        <item>Гуанчжоу</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+        <item>Тайбэй</item>
+        <item>Токио</item>
+        <item>Сеул</item>
+        <item>Пхеньян</item>
+        <item>Париж</item>
+        <item>Лондон</item>
+        <item>Нью-Йорк</item>
+        <item>Чикаго</item>
+        <item>Лос-Анджелес</item>
+        <item>Москва</item>
+        <item>Берлин</item>
+        <item>Сидней</item>
+        <item>Тяньцзинь</item>
+        <item>Шэньчжэнь</item>
+        <item>Ухань</item>
+        <item>Нанкин</item>
+        <item>Ханчжоу</item>
+        <item>Сиань</item>
+        <item>Чжэнчжоу</item>
+        <item>Чэнду</item>
+        <item>Дунгуань</item>
+        <item>Шэньян</item>
+        <item>Харбин</item>
+        <item>Чанша</item>
+        <item>Сямынь</item>
+        <item>Фучжоу</item>
+        <item>Шицзячжуан</item>
+        <item>Сучжоу</item>
+        <item>Чунцин</item>
+        <item>Уси</item>
+        <item>Цзинань</item>
+        <item>Далянь</item>
+        <item>Фошань</item>
+        <item>Тайюань</item>
+        <item>Наньчан</item>
+        <item>Чанчунь</item>
+        <item>Хэфэй</item>
+        <item>Циндао</item>
+        <item>Шаньтоу</item>
+        <item>Куньмин</item>
+        <item>Наньнин</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>Без анимации</item>
+        <item>Поворот</item>
+        <item>Сдвиг</item>
+        <item>Ветряная мельница</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Цилиндр</item>
+    </string-array>
+    <string-array name="pref_app_slide_effect_choices">
+        <item>По ум.</item>
+        <item>Произв.</item>
+        <item>Шкала</item>
+        <item>Поверн.</item>
+        <item>BullDoze</item>
+        <item>Скачок</item>
+        <item>Ветр. мельн.</item>
+        <item>Куб</item>
+        <item>Синусоида</item>
+        <item>Волна</item>
+        <item>Цилиндр</item>
+        <item>Сфера</item>
+        <item>Колесница</item>
+        <item>Змея</item>
+        <item>Свип</item>
+        <item>Червь</item>
+    </string-array>
+    <string-array name="pref_applist_effect_choices">
+        <item>По ум.</item>
+        <item>Ветр. мельн.</item>
+        <item>Поворот</item>
+        <item>Альфа</item>
+    </string-array>
+    <string-array name="pref_folder_style_choices">
+        <item>Стиль стопки по ум. для Android</item>
+        <item>4-точ. стиль матрицы</item>
+    </string-array>
+    <string-array name="pref_hotseat_style_choices">
+        <item>Стиль ползунка по ум. для Android</item>
+        <item>Стиль Lenovo Launcher</item>
+    </string-array>
+    <string-array name="pref_icon_edit_style_choices">
+        <item>Шкала</item>
+        <item>Rotate-Z</item>
+        <item>Альфа</item>
+        <item>Перевести</item>
+        <item>Прыжок</item>
+    </string-array>
+    <string-array name="pref_icon_text_size_choices">
+        <item>Больш.</item>
+        <item>Средн.</item>
+        <item>Мал.</item>
+    </string-array>
+    <string-array name="pref_web_site_choices">
+        <item>Офиц. веб-сайт LenovoStore</item>
+        <item>Другие</item>
+    </string-array>
+    <string-array name="pref_icon_style_choices">
+        <item>Нет</item>
+        <item>Нет</item>
+        <item>Lenovo</item>
+        <item>Закругленный</item>
+        <item>Глин. посуда</item>
+        <item>Молоко</item>
+        <item>Серебро</item>
+        <item>MagicSquare</item>
+    </string-array>
+    <string-array name="quick_action_change_choices">
+        <item>Знач. по ум.</item>
+        <item>Значок темы</item>
+        <item>Польз. знач.</item>
+    </string-array>
+    <string-array name="app_order_choices">
+        <item>по ум.</item>
+        <item>алфавит</item>
+        <item>Недавно установл.</item>
+        <item>Недавно устан. на диспл.</item>
+        <item>частота использования</item>
+        <item>последний использ.</item>
+    </string-array>
+    <string-array name="theme_container_chooser_choices">
+        <item>Lenovo Market</item>
+        <item>Google Play Store</item>
+    </string-array>
+    <string-array name="pref_all_app_y_choices">
+        <item>Неплотн.</item>
+        <item>Средн.</item>
+        <item>Плотный</item>
+    </string-array>
+    <string-array name="pref_workspace_cleanup_timeout_entries">
+        <item>Не исп. более 7 дней</item>
+        <item>Не исп. более 14 дней</item>
+        <item>Не исп. более 21 дней</item>
+        <item>Не исп. более 30 дней</item>
+        <item>Не исп. более 60 дней</item>
+    </string-array>
+    <string-array name="pref_workspace_cleanup_timing_entries">
+        <item>7 дней</item>
+        <item>14 дней</item>
+        <item>21 день</item>
+        <item>30 дней</item>
+        <item>60 дней</item>
+    </string-array>
+    <string-array name="pref_workspace_cleanup_method_entries">
+        <item>Удалить ярлыки</item>
+    </string-array>
+    <string-array name="pref_icon_size_choices">
+        <item>Средн.</item>
+        <item>Мал.</item>
+    </string-array>
+    <string-array name="pref_screen_cellcount_choices">
+        <item>Редкий</item>
+        <item>Средн.</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>Не использовать</item>
+        <item>Меню рабочего стола</item>
+        <item>Список запущенных приложений</item>
+        <item>Панель уведомлений</item>
+    </string-array>
+</resources>

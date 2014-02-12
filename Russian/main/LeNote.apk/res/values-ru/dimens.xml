@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="draw_1">0.39999998mm</dimen>
+    <dimen name="draw_2">0.8000001mm</dimen>
+    <dimen name="draw_3">1.1999817mm</dimen>
+    <dimen name="draw_4">1.3999939mm</dimen>
+    <dimen name="draw_5">1.5999756mm</dimen>
+    <dimen name="draw_6">1.7999878mm</dimen>
+    <dimen name="draw_7">2.0mm</dimen>
+    <dimen name="draw_8">2.1999817mm</dimen>
+    <dimen name="draw_9">2.399994mm</dimen>
+    <dimen name="draw_10">2.5999756mm</dimen>
+    <dimen name="hl_thick">2.0mm</dimen>
+    <dimen name="eraser_size">1.0mm</dimen>
+    <dimen name="pen_1">2.5mm</dimen>
+    <dimen name="pen_2">3.0mm</dimen>
+    <dimen name="pen_3">3.5mm</dimen>
+    <dimen name="pen_4">4.0mm</dimen>
+    <dimen name="pen_5">5.0mm</dimen>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">Б</item>
+        <item quantity="one">Б</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">КБ</item>
+        <item quantity="one">КБ</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">МБ</item>
+        <item quantity="one">МБ</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">ГБ</item>
+        <item quantity="one">ГБ</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">Альбомов: %d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d треков добавлено в:</item>
+        <item quantity="one">1 трек добавлен в:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d треков</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d альбома(ов)</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d папок</item>
+        <item quantity="one">1 папка</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d исполнителя(ей)</item>
+        <item quantity="one">1 исполнитель</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d плэйлиста(ов)</item>
+        <item quantity="one">1 плэйлист</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">Всего: %d треков</item>
+        <item quantity="one">Всего: 1 трек</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">Всего: %d плэйлиста(ов)</item>
+        <item quantity="one">Всего: 1 плэйлист</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">Всего: %d исполнителя(ей)</item>
+        <item quantity="one">Всего: 1 исполнитель</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">Всего: %d папок</item>
+        <item quantity="one">Всего: 1 папка</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">Всего: %d альбома(ов)</item>
+        <item quantity="one">Всего: 1 альбом</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">Найдено %d записей</item>
+        <item quantity="one">Найдена %d запись</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">1 трек удалён</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">%d треков загружено</item>
+        <item quantity="one">1 трек загружен</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">%d артистов загружено</item>
+        <item quantity="one">1 артист загружен</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">%d альбомов загружен</item>
+        <item quantity="one">1 альбом загружен</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">Всего треков: %d</item>
+        <item quantity="one">1 трек</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">%d треков удалено</item>
+        <item quantity="one">1 трек удалён</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">%d треков выделено</item>
+        <item quantity="one">1 трек выделен</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">%d треков добавлены в плейлист</item>
+        <item quantity="one">1 трек добавлен в плейлист</item>
+    </plurals>
+    <plurals name="search_result_tip">
+        <item quantity="other">Найдено %d записей</item>
+        <item quantity="one">Найдена 1 запись</item>
+    </plurals>
+    <plurals name="shuffle_all_songs_to_play">
+        <item quantity="other">Перемешано %d треков</item>
+        <item quantity="one">Перемешан 1 трек</item>
+    </plurals>
+    <plurals name="play_all_songs_to_play">
+        <item quantity="other">Воспроизвести %d треков</item>
+        <item quantity="one">Воспроизвести 1 трек</item>
+    </plurals>
+    <plurals name="header_shuffle_all_songs_to_play">
+        <item quantity="other">Перемешать %d треков</item>
+        <item quantity="one">Перемешать 1 трек</item>
+    </plurals>
+    <plurals name="header_order_all_songs_to_play">
+        <item quantity="other">Воспроизвести %d треков</item>
+        <item quantity="one">Воспроизвести 1 трек</item>
+    </plurals>
+</resources>

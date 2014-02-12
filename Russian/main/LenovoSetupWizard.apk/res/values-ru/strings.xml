@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setupwizard</string>
+    <string name="last">Предыдущий</string>
+    <string name="next">Далее</string>
+    <string name="finish">Готово</string>
+    <string name="title_act_language">Язык</string>
+    <string name="title_act_connect">Мобильный Трафик</string>
+    <string name="tilte_act_brightness">Яркость</string>
+    <string name="title_act_volume">Громкость</string>
+    <string name="title_act_ringtone">Мелодия</string>
+    <string name="title_act_server">Настройка профиля</string>
+    <string name="brightness_auto_label">Авто</string>
+    <string name="volume_ring_mms">Мелодия звонка и сообщение</string>
+    <string name="volume_media">Мультимедиа (музыка/видео/игры и т. д.)</string>
+    <string name="volume_alarm">Сигнал</string>
+    <string name="ringtone_select_title">Звук сигнала</string>
+    <string name="ringtone_select_summary">выбрать мелодию для телефона</string>
+    <string name="ringtone_picker_title">Выбор Мелодий</string>
+    <string name="ringtone_audio_profile_slot_1">Slot 1</string>
+    <string name="ringtone_audio_profile_slot_2">Slot 2</string>
+    <string name="server_lenovo_id_title">Согласиться зарегистрировать Lenovo ID</string>
+    <string name="server_lenovo_id_summery">Используя номер телефона в качестве Lenovo ID, можно пользоваться другими службами Lenovo.</string>
+    <string name="server_lenovo_exp_title">Согласитесь принять участие в программе улучшения Lenovo</string>
+    <string name="server_lenovo_exp_summery">Сбор данных для улучшения нашей продукции и услуг.</string>
+    <string name="server_lenovo_exp_span_text">Подробнее</string>
+    <string name="server_lenovo_exp_dialog_title">Warn</string>
+    <string name="server_lenovo_exp_warn">Отмена программы улучшения Lenovo, приведет к увеличению срока исправления ошибок программ вы все еще хотите отмененить?</string>
+    <string name="server_lenovo_exp_ok">Ok</string>
+    <string name="server_lenovo_exp_cancel">Отмена</string>
+    <string name="gemini_data_connection_progress_message">Подождите...</string>
+    <string name="connect_data_title">Соединение для передачи данных</string>
+    <string name="connect_data_summary">Использование SIM-карты для доступ в Интернет. Если сервис включен, наверняка будет большой расход трафика данных.</string>
+    <string name="gemini_3g_indic">3G</string>
+    <string name="gemini_default_sim_never">Откл</string>
+    <string name="mobile">Передача данных</string>
+</resources>

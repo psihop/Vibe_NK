@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ideafriend_subitem">
+        <item>Телефон</item>
+        <item>Контакты</item>
+        <item>Сообщения</item>
+    </string-array>
+</resources>

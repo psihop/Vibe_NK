@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">Привязка WLAN</string>
+    <string name="dialog_title">Включить беспроводную сеть?</string>
+    <string name="dialog_text">В данном местоположении есть сохраненные ранее WLAN точки. Включить WLAN?</string>
+    <string name="disable_dialog_title">Отключить WLAN?</string>
+    <string name="disable_dialog_text">В данном местоположении отсутствуют сохраненные ранее WLAN точки. Рекомендуется отключить WLAN.</string>
+    <string name="show_dialog">Больше ненапоминать</string>
+    <string name="disable_show_dialog">Больше ненапоминать</string>
+    <string name="wifi_enable_text">Предупреждать при входе в зону действия сети</string>
+    <string name="wifi_enable_summary">Подключить WLAN при входе в зону действия точки доступа</string>
+    <string name="wifi_disable_text">Предупреждать при выходе из зоны действия WLAN</string>
+    <string name="wifi_disable_summary">Отключить WLAN при выходе из зоны действия точки доступа</string>
+    <string name="wifi_setting_summary">Автоматически включать/выключать WLAN при входе/выходе в зону действия запомненной WLAN сети</string>
+    <string name="wifi_popup_tip">Всплывающая подсказка</string>
+    <string name="wifi_auto_enable">Автоматически включить</string>
+    <string name="wifi_auto_disable">Автоматически отключить</string>
+    <string name="wifi_popup_0">Сообщать о входе в зону действия сохраненной сети WLAN.</string>
+    <string name="wifi_popup_1">Автоподключение при входе в зону действия WLAN.</string>
+    <string name="wifi_popup_2">Не привязываться к сетям WLAN.</string>
+</resources>
