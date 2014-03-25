@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
-    <string-array name="previewname">
-        <item>Экран блок.</item>
-        <item>Лаунчер</item>
-        <item>Иконки</item>
-        <item>Обои</item>
-        <item>Система</item>
-        <item>Набор номера</item>
-        <item>Экран звонка</item>
-        <item>Шторка меню</item>
-        <item>Загрузка</item>
-        <item>Шрифт</item>
-    </string-array>
+<resources>
     <string-array name="ideafriend_subitem">
-        <item>Клавиатура</item>
+        <item>Телефон</item>
         <item>Контакты</item>
         <item>Сообщения</item>
     </string-array>
