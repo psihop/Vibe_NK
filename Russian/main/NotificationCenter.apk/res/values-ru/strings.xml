@@ -56,7 +56,7 @@
     <string name="data_connection_service">служба передачи данных</string>
     <string name="wifi">WLAN</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="mobile">Передача данных</string>
+    <string name="mobile">Моб. данные</string>
     <string name="gps">GPS</string>
     <string name="autorotate">Автоповорот</string>
     <string name="normal">Обычный</string>
