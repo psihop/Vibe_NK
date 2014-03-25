@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<preference-headers
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <header android:id="@id/smart_call_settings" android:maxLines="3" android:title="@string/smart_call_title" android:summary="@string/smart_call_summary">
-        <extra android:name="key" android:value="pref_key_smart_call_on" android:maxLines="3" />
-    </header>
-</preference-headers>
