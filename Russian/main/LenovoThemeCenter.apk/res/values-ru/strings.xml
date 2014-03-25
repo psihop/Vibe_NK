@@ -9,7 +9,7 @@
     <string name="lenovo_about_email">Alamat E-mel</string>
     <string name="lenovo_about_unsupport">Tidak disokong buat masa ini. Sila tunggu!</string>
     <string name="lenovo_about_divider">": "</string>
-    <string name="lenovo_about_AboutInfoCopyRight_Cn">联想公司 版权所有</string>
+    <string name="lenovo_about_AboutInfoCopyRight_Cn">Lenovo</string>
     <string name="lenovo_about_AboutInfoCopyRight_En">CopyRight © 2013 Lenovo. Все права защищены</string>
     <string name="SUS_UPDATEDESC">Perihalan:</string>
     <string name="SUS_UPDATEVERPROMPT_VERNAME">Nama:</string>
@@ -156,11 +156,9 @@ abcdefghijklmnopqrstuvwxyz
     <string name="notification_paused_in_background">Приостановлено в фоне.</string>
     <string name="wifi_required_title">Загружается слишком много для оператора сети</string>
     <string name="wifi_required_body">"Для завершения этой загрузки необходимо использование Wi-Fi. 
-
 запустите загрузку в следующий раз при подключении к сети Wi-Fi."</string>
     <string name="wifi_recommended_title">Поставить в очередь на загрузку?</string>
     <string name="wifi_recommended_body">"Запуск этой загрузки сейчас может сократить время работы от аккумулятора и/или привести к передаче по мобильной сети большого объема данных, за которую оператор мобильной связи может взимать плату в зависимости от тарифного плана.
-
  запустите эту загрузку в следующий раз при подключении к сети Wi-Fi."</string>
     <string name="button_queue_for_wifi">Очередь</string>
     <string name="button_cancel_download">Отмена</string>
