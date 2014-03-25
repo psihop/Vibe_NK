@@ -454,4 +454,5 @@
     <string name="str_enter_notifycenter_setting">Параметры центра уведомлений</string>
     <string name="str_custom_switch_pos_text">Выбранные кнопки отображаются в строке переключателей</string>
     <string name="data_connection_datach_timeout_error_msg">Сбой разрыва соединения для передачи данных</string>
+	<string name="lenovo_low_battery_warning_title_text">Центр уведомлений напоминает</string>
 </resources>
